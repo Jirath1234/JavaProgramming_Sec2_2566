@@ -1,0 +1,5 @@
+Student_id : 2313110682
+Student Name : Jirath Ruencharoen
+Major : IT
+Level : 1
+Faculty : Information Technology

@@ -1,4 +1,4 @@
 Id : 2313110682
 Name-Surname : Jirath Ruencharoen
-Date : Jan-10-2024
-Topic : Class and Object
+Date : Jan-17-2024
+Topic : Encapsulation Concept
